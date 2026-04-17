@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Anna 👋
+💼 Data Engineer / BI Engineer with 5+ years of experience
+📊 Specialized in SQL, Power BI, Data Modeling and Analytics
 
-<!--
-**AnDun98/AnDun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ⚙️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Data & Databases**
+- SQL (MS SQL Server)
+- Data Modeling
+- ETL
+- Data Marts
+
+**BI & Analytics**
+- Power BI
+- DAX
+- Power Query
+- Data Visualization
+- Dashboard Development
+
+**Programming**
+- T-SQL
+- Python
+
+---
+
+## 📊 Featured Projects
+
+### 1 Dashboard (Power BI)
+Interactive dashboard for progress tracking
+
+### 2 SQL
+
+### 3 Data Pipeline
+ETL pipeline using Python and SQL
+
+---
+
+## 📫 Contact
+- Email: an.dunets@mail.ru
