@@ -29,7 +29,7 @@
 ## 📊 Featured Projects
 
 ### 1 Dashboard (Power BI)
-Interactive dashboard for progress tracking
+Interactive dashboard for construction progress tracking
 
 ### 2 SQL
 
