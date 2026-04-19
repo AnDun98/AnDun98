@@ -29,12 +29,7 @@
 ## 📊 Featured Projects
 
 ### 1 Dashboard (Power BI)
-Interactive dashboard for construction progress tracking: 
-
-### 2 SQL
-
-### 3 Data Pipeline
-ETL pipeline using Python and SQL
+Interactive dashboard for construction progress tracking: https://github.com/AnDun98/powerbi-workload-dashboard
 
 ---
 
