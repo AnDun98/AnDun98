@@ -1,5 +1,5 @@
 # Hi, I'm Anna 👋
-💼 Data Engineer / BI Engineer with 5+ years of experience
+💼 Data Engineer / BI Engineer
 
 📊 Specialized in SQL, Power BI, Data Modeling and Analytics
 
