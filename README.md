@@ -13,23 +13,6 @@ Data Modeling | DAX & Power Query | Python
 ETL | Data Visualization | 
 Data Marts | Dashboard Development | 
 
-**Data & Databases**
-- SQL (MS SQL Server)
-- Data Modeling
-- ETL
-- Data Marts
-
-**BI & Analytics**
-- Power BI
-- DAX
-- Power Query
-- Data Visualization
-- Dashboard Development
-
-**Programming**
-- T-SQL
-- Python
-
 ---
 
 ## 📊 Featured Projects
