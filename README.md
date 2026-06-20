@@ -6,6 +6,12 @@
 ---
 
 ## ⚙️ Tech Stack
+Data & Databases | BI & Analytics | Programming
+--- | --- | --- |
+- SQL (MS SQL Server) | - Power BI | - T-SQL
+- Data Modeling | - DAX & Power Query | - Python
+- ETL | - Data Visualization | 
+- Data Marts | - Dashboard Development | 
 
 **Data & Databases**
 - SQL (MS SQL Server)
