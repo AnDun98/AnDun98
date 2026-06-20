@@ -31,11 +31,13 @@
 ### 1 Dashboard (Power BI)
 Interactive dashboard for construction progress tracking: https://github.com/AnDun98/powerbi-workload-dashboard
 
-### 2 Data Pipeline (Python)
+### 2 Data Pipeline (Python): https://github.com/AnDun98/data-pipeline
 - ETL pipeline
 - Data cleaning & transformation
 
-https://github.com/AnDun98/data-pipeline
+### 3 Investment Portfolio Analysis (Python & Power BI): https://github.com/AnDun98/investment-portfolio-analysis
+- Data cleaning & transformation
+- Interactive dashboard
 
 ---
 
